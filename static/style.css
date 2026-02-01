@@ -54,3 +54,27 @@ width:60%;
 padding:30px;
 border-radius:15px;
 }
+/* Poem title styling */
+
+.poem-box a{
+display:block;
+text-align:center;
+font-size:22px;
+font-weight:bold;
+color:white;
+text-decoration:none;
+}
+
+.poem-box a:hover{
+color:#ffd700;
+}
+
+/* Center poem content */
+
+.poem-box p{
+text-align:center;
+font-size:20px;
+line-height:1.8;
+}
+
+
